@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @demarijm
 - 👀 I’m interested Web technologies. 
 - 🌱 I’m currently learning React and how to build Web3, Jamstack, and Hydrogen(Shopify) websites
-- 💞️ I’m looking to collaborate on NFT projects, custom E-commerce stores, websites that require speed. 
+- 💞️ I’m looking to collaborate on websites that require speed, security, and interactivity. 
 - 📫 How to reach me ... email
 
 <!---
