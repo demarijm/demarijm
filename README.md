@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @demarijm
+- 👋 Hi, I’m Demari
 - 👀 I’m interested Web technologies. 
-- 🌱 I’m currently learning React and how to build Web3, Jamstack, and Hydrogen(Shopify) websites
-- 💞️ I’m looking to collaborate on websites that require speed, security, and interactivity. 
+- 🌱 I’m currently learning Q# and Python
 - 📫 How to reach me ... email
 
 <!---
