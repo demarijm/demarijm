@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Demari
 - 👀 I’m interested Web technologies. 
-- 🌱 I’m currently learning Q# and Python
+- 🌱 I’m currently learning how javascript frameworks are built
 - 📫 How to reach me ... email
 
 <!---
