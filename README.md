@@ -1,4 +1,3 @@
-![foolishness, checking out that gothang](https://i.imgflip.com/6s8cvr.jpg)
 
 
 
